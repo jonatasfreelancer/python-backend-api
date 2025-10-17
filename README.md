@@ -36,7 +36,7 @@ To run this project locally for review or testing:
 
 2.  **Create a Virtual Environment:**
     ```bash
-    python3 -m venv venv
+    python -m venv venv
     source venv/bin/activate  # On Linux/macOS
     .\venv\Scripts\activate   # On Windows
     ```
@@ -64,7 +64,7 @@ To run this project locally for review or testing:
 
 **Jonatas, Python Freelancer**
 
-* **Upwork Profile:** [Seu link de Perfil do Upwork aqui]
-* **GitHub:** [Link do Seu Perfil do GitHub aqui]
+* **Upwork Profile:** [https://github.com/jonatasfreelancer]
+* **GitHub:** [https://github.com/jonatasfreelancer]
 
 *Experienced in building and deploying custom backend solutions for small to medium-sized businesses.*
